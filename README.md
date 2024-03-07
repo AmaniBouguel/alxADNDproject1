@@ -1,7 +1,7 @@
 # ALX Data Analysis Project1 Readme
 
 ## Introduction
-This project was developed as a part of ALX Africa-Udacity Data Analysis NanoDegree. It aims to make into practice acquired knowledge about data analysis process. </br>
+This project was developed as a part of ALX Africa-Udacity Data Analysis NanoDegree Scholarship. It aims to make into practice acquired knowledge about data analysis process. </br>
 The main task in the project was to: 
 1. Introduce the dataset to be analyzed and search for relevant questions to be answered
 2. Process data wrangling by gathering , assessing and cleaning data
